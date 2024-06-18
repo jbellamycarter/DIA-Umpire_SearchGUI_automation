@@ -59,11 +59,11 @@ if not os.path.isdir(search_dir):
     os.mkdir(search_dir)
 
 # Executables, update to actual location, use absolute path.
-java_exec = r"C:\Users\cmjb5\Apps\FragPipe\fragpipe\jre\bin\java.exe"
-dia_umpire_se = r"C:\Users\cmjb5\Apps\DIA_Umpire\DIA_Umpire_SE-2.2.8.jar"
-search_gui = r"C:\Users\cmjb5\Apps\SearchGUI\SearchGUI-4.2.17\SearchGUI-4.2.17.jar"
-peptide_shaker = r"C:\Users\cmjb5\Apps\PeptideShaker\PeptideShaker-2.2.25\PeptideShaker-2.2.25.jar"
-thermo_file_parser = r"C:\Users\cmjb5\Apps\SearchGUI\SearchGUI-4.2.17\resources\ThermoRawFileParser\ThermoRawFileParser.exe"
+java_exec = r"C:\DIA_Umpire_Automation\java11\jre\bin\java.exe"
+dia_umpire_se = r"C:\DIA_Umpire_Automation\DIA_Umpire_SE-2.2.8.jar"
+search_gui = r"C:\DIA_Umpire_Automation\SearchGUI\SearchGUI-4.2.17\SearchGUI-4.2.17.jar"
+peptide_shaker = r"C:\DIA_Umpire_Automation\PeptideShaker\PeptideShaker-2.2.25\PeptideShaker-2.2.25.jar"
+thermo_file_parser = r"C:\DIA_Umpire_Automation\SearchGUI\SearchGUI-4.2.17\resources\ThermoRawFileParser\ThermoRawFileParser.exe"
 
 ## Check if all executables exist
 if os.path.exists(java_exec):
