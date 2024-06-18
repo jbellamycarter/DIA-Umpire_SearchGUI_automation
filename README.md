@@ -1,4 +1,9 @@
 # DIA-Umpire_SearchGUI_automation
+![GitHub License](https://img.shields.io/github/license/jbellamycarter/DIA-Umpire_SearchGUI_automation)
+![GitHub Release](https://img.shields.io/github/v/release/jbellamycarter/DIA-Umpire_SearchGUI_automation)
+![GitHub Tag](https://img.shields.io/github/v/tag/jbellamycarter/DIA-Umpire_SearchGUI_automation)
+
+
 Scripts for automated processing of Data Independent Acquisition (DIA) preotomics data with [DIA-Umpire](https://github.com/Nesvilab/DIA-Umpire) followed by [SearchGUI](http://compomics.github.io/projects/searchgui). 
 
 ## Purpose
